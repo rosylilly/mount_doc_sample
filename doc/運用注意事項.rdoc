@@ -1,0 +1,9 @@
+= 運用注意事項
+
+1. bundle install のオプション
+2. Unicorn が異常終了するとき
+3. ログの出力場所について
+
+== bundle install のオプション
+
+きをつけてね♡
